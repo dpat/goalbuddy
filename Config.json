@@ -1,0 +1,10 @@
+{
+    "token": "your bot token",
+    "prefix": "!",
+    "activity": "Bot status text",
+    "developers": [],
+    "globalSlashCommands": true,
+    "slashCommandServerID": false,
+
+    "adminRoleID": "admin role id"
+}
